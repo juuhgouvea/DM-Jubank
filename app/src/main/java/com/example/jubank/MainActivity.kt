@@ -13,20 +13,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btLogin.setOnClickListener { loginHandler() }
-
-        btLogin.setOnClickListener(Navigation.createNavigateOnClickListener(R.id.mainFragment, null))
     }
 
     fun loginHandler(){
-
         var username = inputUsername.text.toString()
 
         if(username != "Julia"){
             Toast.makeText(this, "Usuário inválido!", Toast.LENGTH_LONG).show()
             return
         }
-
-
     }
 
 
