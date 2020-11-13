@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type_username">Digite seu nome de usuário</string>
+    <string name="type_password">Digite sua senha</string>
+    <string name="login_btn">Entrar</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="next_btn">Próximo</string>
+    <string name="msg_confirmation">%2$d foi enviado para Priscila</string>
+    <string name="view_transactions">Visualizar Transações</string>
+    <string name="send_btn">Enviar Dinheiro</string>
+    <string name="view_balance">Visualizar Saldo</string>
+    <string name="food_title">Comida</string>
+    <string name="rent_title">Renda</string>
+    <string name="candles_title">Velas</string>
+    <string name="utility_title">Utilidades</string>
+    <string name="title_transactions">Suas Transações</string>
+    <string name="title_balance">Seu Saldo</string>
+    <string name="name_recipient">Nome</string>
+    <string name="value_amount">Quantia</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name" translatable="false">Jubank</string>
+    <string name="type_username">"Type your username "</string>
+    <string name="type_password">Type your password</string>
+    <string name="login_btn">Login</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="next_btn">Next</string>
+    <string name="msg_confirmation">$30 was sent to Priscila</string>
+    <string name="balance" translatable="false">$30</string>
+    <string name="view_transactions">View Transactions</string>
+    <string name="send_btn">Send Money</string>
+    <string name="view_balance">View Balance</string>
+    <string name="food_title">Food</string>
+    <string name="food_value" translatable="false">$300</string>
+    <string name="data_title" translatable="false">Data</string>
+    <string name="value_data" translatable="false">$200</string>
+    <string name="rent_title">Rent</string>
+    <string name="value_rent" translatable="false">$200</string>
+    <string name="candles_title">Candles</string>
+    <string name="value_candles" translatable="false">$3600</string>
+    <string name="utility_title">Utility</string>
+    <string name="value_utility" translatable="false">$150</string>
+    <string name="title_transactions">Your Transactions</string>
+    <string name="title_balance">Your Balance</string>
+    <string name="name_recipient">Name</string>
+    <string name="value_amount">Amount</string>
+</resources>
