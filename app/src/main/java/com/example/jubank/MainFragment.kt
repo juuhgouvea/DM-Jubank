@@ -31,9 +31,9 @@ class MainFragment : Fragment(), View.OnClickListener {
 
     override fun onClick(v: View?) {
         when(v!!.id){
-            R.id.btViewTransactions -> navController!!.navigate(R.id.action_mainFragment_to_viewTransactionFragment)
-            R.id.btSendMoney -> navController!!.navigate(R.id.action_mainFragment_to_chooseRecipientFragment)
-            R.id.btViewBalance -> navController!!.navigate(R.id.action_mainFragment_to_viewBalanceFragment)
+            R.id.btViewTransactions -> navController!!.navigate(R.id.action_MainFragment_to_viewTransactionFragment2)
+            R.id.btSendMoney -> navController!!.navigate(R.id.action_MainFragment_to_chooseRecipientFragment)
+            R.id.btViewBalance -> navController!!.navigate(R.id.action_MainFragment_to_viewBalanceFragment)
         }
     }
 

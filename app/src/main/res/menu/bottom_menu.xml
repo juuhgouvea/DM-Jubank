@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/viewTransactionFragment"
+        android:icon="@drawable/view_icon"
+        android:title="@string/view_transactions" />
+    <item
+        android:id="@+id/chooseRecipientFragment"
+        android:icon="@drawable/send_icon"
+        android:title="@string/send_btn" />
+    <item
+        android:id="@+id/viewBalanceFragment"
+        android:icon="@drawable/view_icon"
+        android:title="@string/view_balance" />
+
+</menu>
