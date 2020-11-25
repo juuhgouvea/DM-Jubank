@@ -17,4 +17,9 @@
     <string name="title_balance">Seu Saldo</string>
     <string name="name_recipient">Nome</string>
     <string name="value_amount">Quantia</string>
+    <string name="title_register">Cadastre-se e faça parte do nosso grupo Jubank</string>
+    <string name="confirm_password">Confirme sua senha</string>
+    <string name="go_to_register">Cadastre-se</string>
+    <string name="text_account">Não tem uma conta?</string>
+    <string name="button_register">Cadastre-se</string>
 </resources>

@@ -25,4 +25,9 @@
     <string name="title_balance">Your Balance</string>
     <string name="name_recipient">Name</string>
     <string name="value_amount">Amount</string>
+    <string name="title_register">"Sign up and join our Jubank group "</string>
+    <string name="confirm_password">Confirm your password</string>
+    <string name="go_to_register">Register</string>
+    <string name="text_account">Don\'t have an account?</string>
+    <string name="button_register">Register</string>
 </resources>

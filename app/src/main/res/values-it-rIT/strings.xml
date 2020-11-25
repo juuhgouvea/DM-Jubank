@@ -17,4 +17,9 @@
     <string name="title_transactions">"Le tue transazioni "</string>
     <string name="name_recipient">Nome</string>
     <string name="value_amount">Quantità</string>
+    <string name="title_register">Iscriviti e unisciti al nostro gruppo Jubank</string>
+    <string name="text_account">Non hai un account?</string>
+    <string name="go_to_register">Registrati</string>
+    <string name="confirm_password">Conferma la tua password</string>
+    <string name="button_register">Registrati</string>
 </resources>
